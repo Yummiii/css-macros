@@ -5,6 +5,7 @@ edition = "2021"
 license-file = "LICENSE"
 homepage = "https://github.com/Yummiii/css-macros"
 repository = "https://github.com/Yummiii/css-macros"
+description = "MAcros to work with css files with stylist"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
